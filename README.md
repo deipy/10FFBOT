@@ -9,3 +9,6 @@ you might need to change the filepaths for where to save the image, as well as t
 # Requirements
 This script requires pyautogui, webbrowser, time and pytesseract
 
+
+# Performance Notes
+The script acheived max performance, 355wpm but was limited by the website itself, and achieved 1440wpm on the anti-cheat (which ultimately got the account banned :( )
